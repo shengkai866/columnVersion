@@ -160,11 +160,11 @@ const Header: React.FC = () => (
     <div className="h-[3px] bg-[#008c8c]" />
 
     {/* beta tag */}
-    <div className="max-w-[1600px] mx-auto px-6">
+    {/* <div className="max-w-[1600px] mx-auto px-6">
       <span className="inline-flex -mt-3 translate-y-3 text-[11px] px-2 py-0.5 rounded bg-[#008c8c] text-white font-bold">
         beta
       </span>
-    </div>
+    </div> */}
   </header>
 );
 
