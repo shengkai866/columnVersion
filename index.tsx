@@ -93,7 +93,7 @@ const Header: React.FC = () => (
       {/* Left: Branding (logo image) */}
     <a href="#" className="flex items-center">
       <img
-        src="img/PanKbase_logo-black-tagline.svg"
+        src="img/pank.svg"
         alt="PanKbase"
         className="h-10 w-auto"
       />
@@ -147,7 +147,7 @@ const Header: React.FC = () => (
         {/* Col 2: HiRN logo spans two rows */}
         <div className="col-start-2 row-span-2 flex items-center justify-end pl-3">
           <img
-            src="img/logo-hirn.svg"
+            src="img/hirn.svg"
             alt="HiRN"
             className="h-12 w-auto"   // ✅ logo 变大，并且视觉上跨两行
           />
